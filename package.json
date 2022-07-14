@@ -10,7 +10,8 @@
   "dependencies": {
     "leaflet-routing-machine": "^3.2.12",
     "vue": "^2.5.21",
-    "vue2-leaflet": "^1.2.3"
+    "vue2-leaflet": "^1.2.3",
+    "vuex": "^4.0.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.0.1",
